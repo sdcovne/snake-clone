@@ -1,4 +1,4 @@
- SNAKE CLONE 1.0 
+# SNAKE CLONE 1.0 
 # by Sebastiano Davide Covone
 # MIT License
 
